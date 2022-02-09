@@ -1,4 +1,4 @@
-<h1 align="left">Hi<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Caio Rocha</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I'm Caio Rocha</h1>
 <p align="left">  </p>
 
 • 🤓 I'm 20 years old.
@@ -21,30 +21,14 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=cvrocha&show_icons=true&theme=vision-friendly-dark" alt="cvrocha stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cvrocha&layout=compact&theme=vision-friendly-dark" alt="cvrocha most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=cvrocha&show_icons=true&theme=aura_dark" alt="cvrocha stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cvrocha&layout=compact&theme=aura_dark" alt="cvrocha most languages"/>
 </p>
 
 ## 👨🏽‍🦲 &nbsp;Social Links
 
-<p align="left" style="background:yellow">
-<a href="https://www.linkedin.com/in/caiovrocha/" target="_blank"><i class='bx bxl-linkedin'>👔 Linkedin
-</a></i>
-</a>
-</p>
+![Linkedin](https://img.shields.io/twitter/url?color=red&label=Linkedin&logo=Linkedin&logoColor=red&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fcaiovrocha%2F)&nbsp;
 
-<br>
+![Github](https://img.shields.io/twitter/url?color=red&label=Github&logo=Github&logoColor=red&style=for-the-badge&url=https%3A%2F%2Fgithub.com%2Fcvrocha)&nbsp;
 
-<p align="left" style="background:yellow">
-<a href="https://cvrocha.github.io/portifolio/index.html" target="_blank"><i class='bx bxl-linkedin'>🖥️ Website
-</a></i>
-</a>
-</p>
-
-<br>
-
-<p align="left" style="background:yellow">
-<a href="https://github.com/cvrocha" target="_blank"><i class='bx bxl-linkedin'>👨🏻‍💻 Github
-</a></i>
-</a>
-</p>
+![Website](https://img.shields.io/twitter/url?color=red&label=%F0%9F%96%A5%EF%B8%8F%20Website&logo=keyboard&logoColor=red&style=for-the-badge&url=https%3A%2F%2Fcvrocha.github.io%2Fportifolio%2Findex.html)&nbsp;
