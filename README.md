@@ -1,15 +1,15 @@
 <h1 align="left">Hi<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Caio Rocha</h1>
 <p align="left">  </p>
 
-1- 🤓 I'm 20 years old.
+• 🤓 I'm 20 years old.
 
-2- 👀 Learning interests: Linux, Java Script, NodeJS, VueJS, TypeScript, Angular, React, Database, mySQL, HTML, CSS, SASS.
+• 👀 Learning interests: Linux, Java Script, NodeJS, VueJS, TypeScript, Angular, React, Database, mySQL, HTML, CSS, SASS.
 
-3- 🌱 I'm currently learning web development, I have knowledge and experience in HTML, CSS, Bootstrap and a little JavaScript.
+• 🌱 I'm currently learning web development, I have knowledge and experience in HTML, CSS, Bootstrap and a little JavaScript.
 
-4- 💞️ I'm looking to collaborate on personal projects and open source projects.
+• 💞️ I'm looking to collaborate on personal projects and open source projects.
 
-<br><br>
+<br>
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -20,7 +20,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-<br><br>
+<br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
@@ -29,7 +29,7 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cvrocha&layout=compact&theme=vision-friendly-dark" alt="cvrocha most languages"/>
 </p>
 
-<br><br>
+<br><
 
 ## 👨🏽‍🦲 &nbsp;Social Links
 
