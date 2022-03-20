@@ -9,6 +9,8 @@
 
 • 💞️ I'm looking to collaborate on personal projects and open source projects.
 
+
+
 # 🛠 &nbsp;*Tech Stack*
 <div align="center">
 <a href="https://en.wikipedia.org/wiki/JavaScript/" target="_blank"><img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" &nbsp;></a> 
@@ -19,6 +21,8 @@
 <a href="https://en.wikipedia.org/wiki/Visual_Studio_Code" target="_blank"><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"></a>
 </div>
 
+
+
 # ⚙️ &nbsp;*GitHub Analytics*
 <div align="center">
 <p>
@@ -28,6 +32,8 @@
 </p></div>
 
 
+
+
 # 👨🏽‍🦲 &nbsp;*Social Links*
 
 <div align="center">
@@ -35,9 +41,7 @@
 <div align="center">
 <a align="right" href="https://cvrocha.github.io/Portifolio/" target="_blank"><img src="https://img.shields.io/twitter/url?color=red&label=%F0%9F%96%A5%EF%B8%8F%20Website&logo=keyboard&logoColor=red&style=for-the-badge&url=https%3A%2F%2Fcvrocha.github.io%2Fportifolio%2Findex.html" &nbsp;></a></div>
 
-
-
+#  
 
 <div align="center"><a href="https://github.com/cvrocha"><img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg"></a></div>
-  
 
