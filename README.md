@@ -27,7 +27,9 @@
 
 ## 👨🏽‍🦲 &nbsp;Social Links
 
-![Linkedin](https://img.shields.io/twitter/url?color=red&label=Linkedin&logo=Linkedin&logoColor=red&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fcaiovrocha%2F)&nbsp;
+<a href="google.com"></a>
+
+<a href="https://www.linkedin.com/in/caiovrocha/" target="_blank">![Linkedin](https://img.shields.io/twitter/url?color=red&label=Linkedin&logo=Linkedin&logoColor=red&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fcaiovrocha%2F)&nbsp; </a>
 
 ![Github](https://img.shields.io/twitter/url?color=red&label=Github&logo=Github&logoColor=red&style=for-the-badge&url=https%3A%2F%2Fgithub.com%2Fcvrocha)&nbsp;
 
