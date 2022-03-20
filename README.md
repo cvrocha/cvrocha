@@ -20,12 +20,13 @@
 </div>
 
 # ⚙️ &nbsp;*GitHub Analytics*
-<div display="flex">
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=cvrocha&show_icons=true&theme=aura_dark" alt="cvrocha stats"/>
+<div align="center">
+<p>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=cvrocha&show_icons=true&theme=aura_dark" alt="cvrocha stats"/></p>
+<p>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cvrocha&layout=compact&theme=aura_dark" alt="cvrocha most languages"/>
-</p>
-</div>
+</p></div>
+
 
 # 👨🏽‍🦲 &nbsp;*Social Links*
 
