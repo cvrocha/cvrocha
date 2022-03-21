@@ -37,7 +37,7 @@
 
 
 
-# 👨🏽‍🦲 &nbsp;*Social Links*
+# 👔 &nbsp;*Social Links*
 
 <div align="left">
   <div style="display: flex; align-items: flex-start;">
