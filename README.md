@@ -12,34 +12,39 @@
 
 
 # 🛠 &nbsp;*Tech Stack*
-<div align="center">
+<div align="left">
+  <div style="display: flex; align-items: flex-start;">
 <a href="https://en.wikipedia.org/wiki/JavaScript/" target="_blank"><img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" &nbsp;></a> 
 <a href="https://en.wikipedia.org/wiki/HTML" target="_blank"><img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" &nbsp;></a> 
 <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"><img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" &nbsp;></a> 
 <a href="https://en.wikipedia.org/wiki/Git" target="_blank"><img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" &nbsp;></a>
 <a href="https://en.wikipedia.org/wiki/Gitub" target="_blank"><img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" &nbsp;></a>
 <a href="https://en.wikipedia.org/wiki/Visual_Studio_Code" target="_blank"><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"></a>
+  </div>
 </div>
 
 
 
 # ⚙️ &nbsp;*GitHub Analytics*
+
 <div align="center">
-<p>
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=cvrocha&show_icons=true&theme=aura_dark" alt="cvrocha stats"/></p>
-<p>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cvrocha&layout=compact&theme=aura_dark" alt="cvrocha most languages"/>
-</p></div>
+  <a href="https://github.com/cvrocha">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cvrocha&show_icons=true&theme=aura_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cvrocha&layout=compact&theme=aura_dark"/>
+    </a>
+</div>
 
 
 
 
 # 👨🏽‍🦲 &nbsp;*Social Links*
 
-<div align="center">
-<a href="https://www.linkedin.com/in/caiovrocha/" target="_blank"><img src="https://img.shields.io/twitter/url?color=red&label=Linkedin&logo=Linkedin&logoColor=red&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fcaiovrocha%2F" &nbsp;></a></div>
-<div align="center">
-<a align="right" href="https://cvrocha.github.io/Portifolio/" target="_blank"><img src="https://img.shields.io/twitter/url?color=red&label=%F0%9F%96%A5%EF%B8%8F%20Website&logo=keyboard&logoColor=red&style=for-the-badge&url=https%3A%2F%2Fcvrocha.github.io%2Fportifolio%2Findex.html" &nbsp;></a></div>
+<div align="left">
+  <div style="display: flex; align-items: flex-start;">
+<a href="https://www.linkedin.com/in/caiovrocha/" target="_blank"><img src="https://img.shields.io/twitter/url?color=red&label=Linkedin&logo=Linkedin&logoColor=red&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fcaiovrocha%2F"></a>
+    <a href="https://cvrocha.github.io/Portifolio/" target="_blank"><img src="https://img.shields.io/twitter/url?color=red&label=%F0%9F%96%A5%EF%B8%8F%20Website&logo=keyboard&logoColor=red&style=for-the-badge&url=https%3A%2F%2Fcvrocha.github.io%2Fportifolio%2Findex.html"></a>
+  </div>
+</div>
 
 #  
 
