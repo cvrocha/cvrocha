@@ -42,7 +42,7 @@
 <div align="left">
   <div style="display: flex; align-items: flex-start;">
 <a href="https://www.linkedin.com/in/caiovrocha/" target="_blank"><img src="https://img.shields.io/twitter/url?color=red&label=Linkedin&logo=Linkedin&logoColor=red&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fcaiovrocha%2F"></a>
-    <a href="https://cvrocha.github.io/Portifolio/" target="_blank"><img src="https://img.shields.io/twitter/url?color=red&label=%F0%9F%96%A5%EF%B8%8F%20Website&logo=keyboard&logoColor=red&style=for-the-badge&url=https%3A%2F%2Fcvrocha.github.io%2Fportifolio%2Findex.html"></a>
+    <a href="https://cvrocha.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/twitter/url?color=red&label=%F0%9F%96%A5%EF%B8%8F%20Website&logo=keyboard&logoColor=red&style=for-the-badge&url=https%3A%2F%2Fcvrocha.github.io%2Fportifolio%2Findex.html"></a>
   </div>
 </div>
 
