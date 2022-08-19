@@ -1,11 +1,11 @@
 **<h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I'm Caio Rocha</h1>**
 <p align="left">  </p>
 
-• 🤓 I'm **_20_** years old.
+• 🤓 I'm **_21_** years old.
 
-• 👀 **_Learning interests:_** Linux, Java Script, NodeJS, VueJS, TypeScript, Angular, React, Database, mySQL, HTML, CSS, SASS.
+• 👀 **_Learning interests:_** NodeJS, VueJS, React.
 
-• 🌱 I'm currently learning web development, I have knowledge and experience in HTML, CSS, Bootstrap and a little JavaScript.
+• 🌱 I'm currently learning web development, I have knowledge and experience in HTML, CSS, SCSS, Bootstrap and a little JavaScript.
 
 • 💞️ I'm looking to collaborate on personal projects and open source projects.
 
