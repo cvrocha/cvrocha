@@ -1,4 +1,4 @@
-**<h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I'm Caio Rocha</h1>**
+**<h1 align="center">Hi <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30px"> I'm Caio Rocha</h1>**
 <p align="left">  </p>
 
 • 🤓 I'm **_22_** years old.
