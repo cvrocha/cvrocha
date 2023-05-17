@@ -15,6 +15,7 @@
 <div align="left">
   <div style="display: flex; align-items: flex-start;">
 <a href="https://en.wikipedia.org/wiki/JavaScript/" target="_blank"><img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" &nbsp;></a> 
+<a href="https://pt.wikipedia.org/wiki/React_(JavaScript)" target="_blank"><img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" &nbsp;></a> 
 <a href="https://en.wikipedia.org/wiki/HTML" target="_blank"><img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" &nbsp;></a> 
 <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"><img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" &nbsp;></a> 
 <a href="https://en.wikipedia.org/wiki/Git" target="_blank"><img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" &nbsp;></a>
