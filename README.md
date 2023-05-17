@@ -1,11 +1,9 @@
 **<h1 align="center">Hi <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30px"> I'm Caio Rocha</h1>**
 <p align="left">  </p>
 
-• 🤓 I'm **_22_** years old.
+• 💻 I have a degree in Systems Analysis and Development and a computer science student
 
-• 👀 **_Learning interests:_** NodeJS, React-Native, React.
-
-• 🌱 I'm currently learning web development, I have knowledge and experience in HTML, CSS, SCSS, Bootstrap and a little JavaScript.
+• 📚 I’m currently learning ReactJS and React Native
 
 • 💞️ I'm looking to collaborate on personal projects and open source projects.
 
